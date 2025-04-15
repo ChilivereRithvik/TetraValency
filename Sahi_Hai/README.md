@@ -1,4 +1,4 @@
-# Sahi Hai - A Chrome Extension to detect Malicious Websites
+# Minor Project - A Chrome Extension to detect Malicious Websites
  
 ![](./images/working.gif)
 
